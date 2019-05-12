@@ -1,0 +1,23 @@
+{
+  "name": "stay-in-contact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ortichon/stay-in-contact.git"
+  },
+  "author": "Or Tichon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ortichon/stay-in-contact/issues"
+  },
+  "homepage": "https://github.com/ortichon/stay-in-contact#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
